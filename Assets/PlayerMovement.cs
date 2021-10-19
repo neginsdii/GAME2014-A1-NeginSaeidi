@@ -21,3 +21,5 @@ public class PlayerMovement : MonoBehaviour
         rg.velocity = new Vector2(inputX * moveSpeed, inputY * moveSpeed);
     }
 }
+
+

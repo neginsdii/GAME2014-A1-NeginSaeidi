@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "emulator-5554",
         "name": "com.GeorgeBrown.GAME2014A1NeginSaeidi",
-        "processId": 3459,
+        "processId": 3141,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -12,6 +12,12 @@
             "deviceId": "emulator-5554",
             "name": "com.GeorgeBrown.GAME2014A1NeginSaeidi",
             "processId": 3459,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.GeorgeBrown.GAME2014A1NeginSaeidi",
+            "processId": 3141,
             "exited": false
         }
     ],
